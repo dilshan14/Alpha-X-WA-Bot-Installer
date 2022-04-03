@@ -1,6 +1,6 @@
 {
-    "name": "Alpha-X-Whatsapp-User-Bot", 
-    "description": "🚀 Alpha-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
+    "name": "hello kitty", 
+    "description": "🚀 hello kitty-X project is bot for whatsapp, With enjoyable things and fun to use whatsapp 😉 | World first fully customizable bot for WhatsApp.",
     "logo": "https://telegra.ph/file/c265e654e3ec87c78d984.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
     "repository": "https://github.com/SL-Alpha-X-Team/Alpha-X-WA-Bot",
@@ -8,7 +8,7 @@
     "success_url": "https://alpha-x.ml/wa-bot",
     "stack": "container",
     "env": {
-        "_ALPHA_SESSION": {
+        "_hello kitty_SESSION": {
             "description": "Type here your QR code. Get it using >> https://replit.com/@AlphaXteam",
             "required": true
         },
@@ -64,7 +64,7 @@
         "COMMAND_LIST_KEY": {
             "description": "Customizable COMMAND LIST KEY type a key to get all command list >> EX: alpha",
             "required": false,
-            "value": "alphaWA"
+            "value": "hello kittyWA"
         },
         "ALIVE_MSG_KEY": {
             "description": "Customizable ALIVE MSG KEY type a key to check if bot work >> EX: alive",
@@ -129,7 +129,7 @@
         "BOT_NAME": {
             "description": "Customizable BOT NAME! Type a Name for your bot.",
             "required": false,
-            "value": " *🔥 Ａｌｐｈａ-Ｘ-WA-Bot 🔥* "
+            "value": " *🔥 hello kitty-Ｘ-WA-Bot 🔥* "
        },
         "WELCOME_GIF": {
             "description": "Customizable Welcome Message GIF! Type a link of gif.",
